@@ -27,7 +27,7 @@ The back-end API for the **Rimberio Android app**. Built with **Express.js**, th
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/rimberio-back-end.git
+   git clone https://github.com/nethmidinanjana/rimberio-back-end.git
    cd rimberio-back-end
    ```
 
