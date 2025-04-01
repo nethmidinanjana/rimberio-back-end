@@ -15,3 +15,27 @@ The back-end API for the **Rimberio Android app**. Built with **Express.js**, th
 - **Express.js**: Web framework for building the API.
 - **Firebase**: Cloud-based real-time database for user data and order management.
 
+## Installation
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v14 or higher)
+- Firebase project
+
+### Steps
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/rimberio-back-end.git
+   cd rimberio-back-end
+   ```
+
+2. Add your firebaseConfig.json in the root directory.
+
+3. Create a .env file with your environment variables.
+
+4. To start the server in development mode, run:
+   ```bash
+   npm run devStart
+   ```
